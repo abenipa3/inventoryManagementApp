@@ -1,2 +1,2 @@
-# inventory_management_app
+# inventoryManagementApp
 An Android application where users can store, update, and track inventory.
